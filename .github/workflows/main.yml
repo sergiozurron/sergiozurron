@@ -1,5 +1,0 @@
-- name: Snake Evolution
-  uses: miccy/snake-evolution@v1.3.0
-  with:
-    github_user_name: sergiozurron
-    theme: github-light
